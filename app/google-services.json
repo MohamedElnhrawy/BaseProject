@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "237255402917",
+    "firebase_url": "https://faz3a-7e199.firebaseio.com",
+    "project_id": "faz3a-7e199",
+    "storage_bucket": "faz3a-7e199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237255402917:android:5326dc08d9839ecd",
+        "android_client_info": {
+          "package_name": "com.smaat.faz3a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237255402917-jq9tth4imkpfq6g5t46fcv9lkj0biva9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smaat.faz3a",
+            "certificate_hash": "b7cdab46effe109f26c35775e1e08488bf254236"
+          }
+        },
+        {
+          "client_id": "237255402917-ch8hb07859pnttjomedpmbc0aklvlb5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smaat.faz3a",
+            "certificate_hash": "81913cf30095e60de8dca37e70f25c60c33ca271"
+          }
+        },
+        {
+          "client_id": "237255402917-n8ce4m9d5im4le8l9umb7emapp38omim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADa5Hx0fgn_NvmPpI1o71nS-15gIA_-yk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237255402917-n8ce4m9d5im4le8l9umb7emapp38omim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

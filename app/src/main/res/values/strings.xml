@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaseProject</string>
+    <string name="enable_gps">enable gps</string>
+    <string name="ok">ok</string>
+    <string name="hello">hello world</string>
+    <string name="lang">language</string>
+    <string name="movies">Movies</string>
+</resources>

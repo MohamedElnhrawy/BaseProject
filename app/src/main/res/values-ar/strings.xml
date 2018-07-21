@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الاساس</string>
+    <string name="enable_gps">enable gps</string>
+    <string name="ok">ok</string>
+    <string name="hello">مرحبا</string>
+    <string name="lang">اللغه</string>
+    <string name="movies">الافلام</string>
+
+</resources>
